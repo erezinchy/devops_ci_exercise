@@ -1,0 +1,8 @@
+D:\Visual Studio 2015\8queensCsharpNewApproach\8queensCsharp\bin\Release\8queensCsharp.exe
+D:\Visual Studio 2015\8queensCsharpNewApproach\8queensCsharp\bin\Release\8queensCsharp.pdb
+D:\Visual Studio 2015\8queensCsharpNewApproach\8queensCsharp\obj\Release\EightQueensApplication.EightQueens.resources
+D:\Visual Studio 2015\8queensCsharpNewApproach\8queensCsharp\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Visual Studio 2015\8queensCsharpNewApproach\8queensCsharp\obj\Release\8queensCsharp.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\8queensCsharpNewApproach\8queensCsharp\obj\Release\8queensCsharp.exe
+D:\Visual Studio 2015\8queensCsharpNewApproach\8queensCsharp\obj\Release\8queensCsharp.pdb
+D:\Visual Studio 2015\8queensCsharpNewApproach\8queensCsharp\obj\Release\8queensCsharp.csprojResolveAssemblyReference.cache

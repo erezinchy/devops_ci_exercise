@@ -1,0 +1,25 @@
+D:\Visual Studio 2015\8queensCsharpNewApproach\8queensCsharp\bin\Debug\8queensCsharp.exe
+D:\Visual Studio 2015\8queensCsharpNewApproach\8queensCsharp\bin\Debug\8queensCsharp.pdb
+D:\Visual Studio 2015\8queensCsharpNewApproach\8queensCsharp\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Visual Studio 2015\8queensCsharpNewApproach\8queensCsharp\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Visual Studio 2015\8queensCsharpNewApproach\8queensCsharp\obj\Debug\8queensCsharp.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\8queensCsharpNewApproach\8queensCsharp\obj\Debug\8queensCsharp.exe
+D:\Visual Studio 2015\8queensCsharpNewApproach\8queensCsharp\obj\Debug\8queensCsharp.pdb
+D:\Visual Studio 2015\8queensCsharpNewApproach\8queensCsharp\bin\Debug\8queensCsharp.exe.CodeAnalysisLog.xml
+D:\Visual Studio 2015\8queensCsharpNewApproach\8queensCsharp\bin\Debug\8queensCsharp.exe.lastcodeanalysissucceeded
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\8queensCsharp\bin\Debug\8queensCsharp.exe
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\8queensCsharp\bin\Debug\8queensCsharp.pdb
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\8queensCsharp\obj\Debug\EightQueensApplication.EightQueens.resources
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\8queensCsharp\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\8queensCsharp\obj\Debug\8queensCsharp.csproj.GenerateResource.Cache
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\8queensCsharp\obj\Debug\8queensCsharp.exe
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\8queensCsharp\obj\Debug\8queensCsharp.pdb
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\8queensCsharp\obj\Debug\8queensCsharp.csprojResolveAssemblyReference.cache
+D:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\8queensCsharp\bin\Debug\8queensCsharp.exe
+D:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\8queensCsharp\bin\Debug\8queensCsharp.pdb
+D:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\8queensCsharp\obj\Debug\8queensCsharp.csprojResolveAssemblyReference.cache
+D:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\8queensCsharp\obj\Debug\EightQueensApplication.EightQueens.resources
+D:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\8queensCsharp\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\8queensCsharp\obj\Debug\8queensCsharp.csproj.GenerateResource.Cache
+D:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\8queensCsharp\obj\Debug\8queensCsharp.exe
+D:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\8queensCsharp\obj\Debug\8queensCsharp.pdb

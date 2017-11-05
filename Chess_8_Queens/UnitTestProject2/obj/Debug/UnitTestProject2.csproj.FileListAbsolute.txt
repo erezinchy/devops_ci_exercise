@@ -1,0 +1,12 @@
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Inchy_Docs\Refael_Tests\8 Queens on Chessboard Puzzle 2016\C#\UnitTestProject2\obj\Debug\UnitTestProject2.pdb

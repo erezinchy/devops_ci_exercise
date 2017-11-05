@@ -1,0 +1,102 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8queensCsharp", "8queensCsharp\8queensCsharp.csproj", "{B7BE5FFE-4AA8-4925-B84B-1C70B986D3C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{C9B01B61-78F7-4630-9B3E-663D66518330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject2", "UnitTestProject2\UnitTestProject2.csproj", "{D77059A8-B9E6-438D-B551-4A92F54328F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject3", "UnitTestProject3\UnitTestProject3.csproj", "{87758E07-F858-4447-9362-67552D573F74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject4", "UnitTestProject4\UnitTestProject4.csproj", "{167A3040-86C5-4C22-BF31-C20D0E4DB7CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject5", "UnitTestProject5\UnitTestProject5.csproj", "{069047D1-4073-4951-B288-1B640EBD2D6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7BE5FFE-4AA8-4925-B84B-1C70B986D3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7BE5FFE-4AA8-4925-B84B-1C70B986D3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7BE5FFE-4AA8-4925-B84B-1C70B986D3C8}.Debug|x86.ActiveCfg = Debug|x86
+		{B7BE5FFE-4AA8-4925-B84B-1C70B986D3C8}.Debug|x86.Build.0 = Debug|x86
+		{B7BE5FFE-4AA8-4925-B84B-1C70B986D3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7BE5FFE-4AA8-4925-B84B-1C70B986D3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7BE5FFE-4AA8-4925-B84B-1C70B986D3C8}.Release|x86.ActiveCfg = Release|x86
+		{B7BE5FFE-4AA8-4925-B84B-1C70B986D3C8}.Release|x86.Build.0 = Release|x86
+		{C9B01B61-78F7-4630-9B3E-663D66518330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B01B61-78F7-4630-9B3E-663D66518330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B01B61-78F7-4630-9B3E-663D66518330}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C9B01B61-78F7-4630-9B3E-663D66518330}.Debug|x86.Build.0 = Debug|Any CPU
+		{C9B01B61-78F7-4630-9B3E-663D66518330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B01B61-78F7-4630-9B3E-663D66518330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B01B61-78F7-4630-9B3E-663D66518330}.Release|x86.ActiveCfg = Release|Any CPU
+		{C9B01B61-78F7-4630-9B3E-663D66518330}.Release|x86.Build.0 = Release|Any CPU
+		{D77059A8-B9E6-438D-B551-4A92F54328F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77059A8-B9E6-438D-B551-4A92F54328F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77059A8-B9E6-438D-B551-4A92F54328F6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D77059A8-B9E6-438D-B551-4A92F54328F6}.Debug|x86.Build.0 = Debug|Any CPU
+		{D77059A8-B9E6-438D-B551-4A92F54328F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77059A8-B9E6-438D-B551-4A92F54328F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77059A8-B9E6-438D-B551-4A92F54328F6}.Release|x86.ActiveCfg = Release|Any CPU
+		{D77059A8-B9E6-438D-B551-4A92F54328F6}.Release|x86.Build.0 = Release|Any CPU
+		{87758E07-F858-4447-9362-67552D573F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87758E07-F858-4447-9362-67552D573F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87758E07-F858-4447-9362-67552D573F74}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{87758E07-F858-4447-9362-67552D573F74}.Debug|x86.Build.0 = Debug|Any CPU
+		{87758E07-F858-4447-9362-67552D573F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87758E07-F858-4447-9362-67552D573F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87758E07-F858-4447-9362-67552D573F74}.Release|x86.ActiveCfg = Release|Any CPU
+		{87758E07-F858-4447-9362-67552D573F74}.Release|x86.Build.0 = Release|Any CPU
+		{167A3040-86C5-4C22-BF31-C20D0E4DB7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167A3040-86C5-4C22-BF31-C20D0E4DB7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167A3040-86C5-4C22-BF31-C20D0E4DB7CE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{167A3040-86C5-4C22-BF31-C20D0E4DB7CE}.Debug|x86.Build.0 = Debug|Any CPU
+		{167A3040-86C5-4C22-BF31-C20D0E4DB7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167A3040-86C5-4C22-BF31-C20D0E4DB7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{167A3040-86C5-4C22-BF31-C20D0E4DB7CE}.Release|x86.ActiveCfg = Release|Any CPU
+		{167A3040-86C5-4C22-BF31-C20D0E4DB7CE}.Release|x86.Build.0 = Release|Any CPU
+		{069047D1-4073-4951-B288-1B640EBD2D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{069047D1-4073-4951-B288-1B640EBD2D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{069047D1-4073-4951-B288-1B640EBD2D6F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{069047D1-4073-4951-B288-1B640EBD2D6F}.Debug|x86.Build.0 = Debug|Any CPU
+		{069047D1-4073-4951-B288-1B640EBD2D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{069047D1-4073-4951-B288-1B640EBD2D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{069047D1-4073-4951-B288-1B640EBD2D6F}.Release|x86.ActiveCfg = Release|Any CPU
+		{069047D1-4073-4951-B288-1B640EBD2D6F}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://erezinchy.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = 8queensCsharp\\8queensCsharp.csproj
+		SccProjectName1 = 8queensCsharp
+		SccLocalPath1 = 8queensCsharp
+		SccProjectUniqueName2 = UnitTestProject1\\UnitTestProject1.csproj
+		SccProjectName2 = UnitTestProject1
+		SccLocalPath2 = UnitTestProject1
+		SccProjectUniqueName3 = UnitTestProject2\\UnitTestProject2.csproj
+		SccProjectName3 = UnitTestProject2
+		SccLocalPath3 = UnitTestProject2
+		SccProjectUniqueName4 = UnitTestProject3\\UnitTestProject3.csproj
+		SccProjectName4 = UnitTestProject3
+		SccLocalPath4 = UnitTestProject3
+		SccProjectUniqueName5 = UnitTestProject4\\UnitTestProject4.csproj
+		SccProjectName5 = UnitTestProject4
+		SccLocalPath5 = UnitTestProject4
+		SccProjectUniqueName6 = UnitTestProject5\\UnitTestProject5.csproj
+		SccProjectName6 = UnitTestProject5
+		SccLocalPath6 = UnitTestProject5
+	EndGlobalSection
+EndGlobal
